@@ -16,8 +16,8 @@ min-height: 100%;
 
 body {
 margin: 0 0 100px; /* bottom = footer height */
-font-family: 'Inter', sans-serif; 
-background-color: #282D35;
+font-family: 'Roboto', sans-serif;
+background-color: #1A374D;
 }
 
 
@@ -48,12 +48,32 @@ footer {
   
   .container {
     padding: 2px 0;
+    color: #fff;
   }
 
 
   .container > img {
     border-radius: 20%;
-    border: 5px solid #fff;
-    margin-top: 2.5em;
-    width: 15em;
+    border: 5px solid #B1D0E0;
+    margin-top: 2.3em;
+    width: 18em;
+  }
+
+  .header--name, .subheader--role {
+    margin: 2px;
+  }
+
+  .header--name {
+    padding-top: 15px;
+  }
+
+  .subheader--role {
+    color: #B1D0E0;
+    font-weight: 400;
+  }
+
+  .subheader-website {
+    font-size: 0.8em;
+    font-weight: 200;
+    margin-top: 12.5px;
   }
