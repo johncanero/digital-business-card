@@ -63,13 +63,13 @@ background-color: #CDBBA7;
 
   /* Main */
   .btn {
+    border:  1px solid #F4DFD0;
     margin: 0.3em 0.8em;
     padding: 0.5em 1.8em;
   }
   
   .btn-color {
     background-color: #DAD0C2;
-    border:  1px solid #F4DFD0;
     color: #000;
   }
           
