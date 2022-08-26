@@ -9,11 +9,11 @@ const Main = () => {
         </div>
 
         <div className='digital--main'>
-          <h3>About</h3>
+          <h3 className='digital--main-heading'>About</h3>
           <p className='digital--text'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
 
-          <h3>Interests</h3>
-          <p className='digital--text'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
+          <h3 className='digital--main-heading'>Interests</h3>
+          <p className='digital--text'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
         </div>
     </div>
   )

@@ -17,21 +17,9 @@ min-height: 100%;
 body {
 margin: 0 0 100px; /* bottom = footer height */
 font-family: 'Roboto', sans-serif;
-background-color: #1A374D;
+background-color: #CDBBA7;
 }
 
-
-
-footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 3em;
-    width: 100%;
-    text-align: center;
-    background-color: #61DAFB;
-  }
-  
 
 
 /* Header */
@@ -42,13 +30,13 @@ footer {
     }
     
   .digital--container {
-    color: #fff;
+    color: #000
   }
 
 
   .digital--container > img {
     border-radius: 20%;
-    border: 5px solid #B1D0E0;
+    border: 5px solid #F4DFD0;
     margin-top: 2.3em;
     width: 18em;
   }
@@ -62,13 +50,13 @@ footer {
   }
 
   .subheader--role {
-    color: #B1D0E0;
+    color: #5c4c37;
     font-weight: 400;
   }
 
   .subheader-website {
     font-size: 0.8em;
-    font-weight: 200;
+    font-weight: 300;
     margin-top: 12.5px;
   }
 
@@ -80,18 +68,42 @@ footer {
   }
   
   .btn-color {
-    background-color: #5093E2;
-    border:  solid #5093E2;
-    color: #fff;
+    background-color: #DAD0C2;
+    border:  1px solid #F4DFD0;
+    color: #000;
   }
           
 
   .digital--main {
-    color: #fff;
+    color: #000;
     justify-content: left;
-    margin: 2.8em;
+    margin: 1.5em 2.8em 0 2.8em;
   }
+
 
   .digital--text {
     font-weight: 200;
+  }
+
+  /* Footer */
+  .footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+    
+  footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4em;
+    width: 100%;
+    text-align: center;
+    background-color: #7d6c56;
+  }
+
+  .fa-square-twitter, .fa-square-facebook, .fa-instagram, .fa-square-github {
+    margin: 0 0.4em;
+    color: #ecdac4;
   }
