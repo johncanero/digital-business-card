@@ -35,18 +35,18 @@ footer {
 
 
 /* Header */
-.card {
-    width: 100%;
-    justify-content: center;
-    text-align: center;
-  }
-  
-  .container {
+  .digital--card {
+      width: 100%;
+      justify-content: center;
+      text-align: center;
+    }
+    
+  .digital--container {
     color: #fff;
   }
 
 
-  .container > img {
+  .digital--container > img {
     border-radius: 20%;
     border: 5px solid #B1D0E0;
     margin-top: 2.3em;
@@ -74,3 +74,8 @@ footer {
 
 
   /* Main */
+  .btn {
+    margin: 0.3em 0.5em;
+  }
+  
+          

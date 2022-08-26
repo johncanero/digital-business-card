@@ -4,8 +4,8 @@ import PhotoCard from '../images/photoCard.jpg'
 const Header = () => {
   return (
     <div>
-        <div className='card'>   
-            <div className='container'>
+        <div className='digital--card'>   
+            <div className='digital--container'>
                 <img src={PhotoCard} alt='photoCard.jpg'/>
                 <h1 className='header--name'>John Cañero</h1>
                 <h4 className='subheader--role'>Frontend Developer</h4>
