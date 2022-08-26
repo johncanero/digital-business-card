@@ -75,7 +75,23 @@ footer {
 
   /* Main */
   .btn {
-    margin: 0.3em 0.5em;
+    margin: 0.3em 0.8em;
+    padding: 0.5em 1.8em;
   }
   
+  .btn-color {
+    background-color: #5093E2;
+    border:  solid #5093E2;
+    color: #fff;
+  }
           
+
+  .digital--main {
+    color: #fff;
+    justify-content: left;
+    margin: 2.8em;
+  }
+
+  .digital--text {
+    font-weight: 200;
+  }
