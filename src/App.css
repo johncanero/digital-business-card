@@ -102,15 +102,15 @@ background-color: #222128;
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 4.5em;
+    height: 4em;
     width: 100%;
     text-align: center;
-    background-color: #1f1e23;
+    background-color: #dfbca2;
   }
 
   .fa-square-twitter, .fa-square-facebook, .fa-instagram, .fa-square-github {
     margin: 0 0.4em;
-    color: #F7CCAC;
+    color: #222128;
   }
 
 
