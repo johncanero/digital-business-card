@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/digital-business-card/static/css/main.a7434c9e.css",
-    "main.js": "/digital-business-card/static/js/main.79d96abf.js",
-    "static/js/787.86b5e812.chunk.js": "/digital-business-card/static/js/787.86b5e812.chunk.js",
-    "static/media/background.jpg": "/digital-business-card/static/media/background.4cdf69a21eecd446ba2f.jpg",
-    "static/media/photoCard.jpg": "/digital-business-card/static/media/photoCard.afd742d6ea1df4537cb8.jpg",
-    "index.html": "/digital-business-card/index.html",
-    "main.a7434c9e.css.map": "/digital-business-card/static/css/main.a7434c9e.css.map",
-    "main.79d96abf.js.map": "/digital-business-card/static/js/main.79d96abf.js.map",
-    "787.86b5e812.chunk.js.map": "/digital-business-card/static/js/787.86b5e812.chunk.js.map"
+    "main.css": "/static/css/main.5f9bf79a.css",
+    "main.js": "/static/js/main.85c89943.js",
+    "static/js/787.86b5e812.chunk.js": "/static/js/787.86b5e812.chunk.js",
+    "static/media/background.jpg": "/static/media/background.4cdf69a21eecd446ba2f.jpg",
+    "static/media/photoCard.jpg": "/static/media/photoCard.afd742d6ea1df4537cb8.jpg",
+    "index.html": "/index.html",
+    "main.5f9bf79a.css.map": "/static/css/main.5f9bf79a.css.map",
+    "main.85c89943.js.map": "/static/js/main.85c89943.js.map",
+    "787.86b5e812.chunk.js.map": "/static/js/787.86b5e812.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7434c9e.css",
-    "static/js/main.79d96abf.js"
+    "static/css/main.5f9bf79a.css",
+    "static/js/main.85c89943.js"
   ]
 }
