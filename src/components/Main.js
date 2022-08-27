@@ -10,10 +10,13 @@ const Main = () => {
 
         <div className='digital--main'>
           <h3 className='digital--main-heading'>About</h3>
-          <p className='digital--text'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+          <p className='digital--text'>I am a <strong>frontend developer</strong> & <strong>architecture designer</strong>. I love making projects and showing it to the world. 
+          <br></br>
+          <br></br>
+          I try my best to learn about the these things and how I could use it to improve life for the better.</p>
 
           <h3 className='digital--main-heading'>Interests</h3>
-          <p className='digital--text'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+          <p className='digital--text'>Architecture. Web Development. Learning. Writing. Blogging. Football. Biking.</p>
         </div>
     </div>
   )
