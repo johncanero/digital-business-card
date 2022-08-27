@@ -17,7 +17,7 @@ min-height: 100%;
 body {
 margin: 0 0 100px; /* bottom = footer height */
 font-family: 'Roboto', sans-serif;
-background-color: #CDBBA7;
+background-color: #3A3845;
 }
 
 
@@ -30,14 +30,14 @@ background-color: #CDBBA7;
     }
     
   .digital--container {
-    color: #000
+    color: #fff;
   }
 
 
   .digital--container > img {
     border-radius: 20%;
-    border: 5px solid #F4DFD0;
-    margin-top: 2.3em;
+    border: 4px solid #F7CCAC;
+    margin-top: 2.5em;
     width: 15.8em;
   }
 
@@ -50,7 +50,7 @@ background-color: #CDBBA7;
   }
 
   .subheader--role {
-    color: #5c4c37;
+    color: #F7CCAC;
     font-weight: 400;
   }
 
@@ -63,23 +63,26 @@ background-color: #CDBBA7;
 
   /* Main */
   .btn {
-    border:  1px solid #F4DFD0;
+    border:  1px solid #C69B7B;
     margin: 0.3em 0.8em;
     padding: 0.5em 1.8em;
   }
   
   .btn-color {
-    background-color: #DAD0C2;
-    color: #000;
+    background-color: #C69B7B;
+    color: #fff;
   }
           
 
   .digital--main {
-    color: #000;
+    color: #fff;
     justify-content: left;
     margin: 1.5em 2.8em 0 2.8em;
   }
 
+  .digital--main-heading {
+    color: #F7CCAC;
+  }
 
   .digital--text {
     font-weight: 200;
@@ -100,10 +103,10 @@ background-color: #CDBBA7;
     height: 4em;
     width: 100%;
     text-align: center;
-    background-color: #7d6c56;
+    background-color: #826F66;
   }
 
   .fa-square-twitter, .fa-square-facebook, .fa-instagram, .fa-square-github {
     margin: 0 0.4em;
-    color: #ecdac4;
+    color: #F7CCAC;
   }
