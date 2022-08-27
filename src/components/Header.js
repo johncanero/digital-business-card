@@ -1,9 +1,11 @@
 import React from 'react'
+import Main from './Main'
+import Footer from './Footer'
 import PhotoCard from '../images/photoCard.jpg'
 
 const Header = () => {
   return (
-    <div>
+    <div className='digital--business-card'>
         <div className='digital--card'>   
             <div className='digital--container'>
                 <img src={PhotoCard} alt='photoCard.jpg'/>
@@ -12,6 +14,8 @@ const Header = () => {
                 <p className='subheader-website'>johncanero.website</p>
             </div>
         </div>
+        <Main />
+        <Footer />
     </div>
   )
 }

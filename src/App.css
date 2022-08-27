@@ -16,14 +16,14 @@ min-height: 100%;
 body {
 margin: 0 0 100px; /* bottom = footer height */
 font-family: 'Roboto', sans-serif;
-background-color: #27262e;
+background-color: #222128;
 }
 
 
 
 /* Header */
   .digital--card {
-      width: 100%;
+      max-width: 100%;
       justify-content: center;
       text-align: center;
     }
@@ -74,7 +74,7 @@ background-color: #27262e;
     color: #fff;
   }
           
-
+  
   .digital--main {
     color: #fff;
     justify-content: left;
@@ -101,7 +101,7 @@ background-color: #27262e;
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 4em;
+    height: 4.5em;
     width: 100%;
     text-align: center;
     background-color: #1f1e23;
@@ -120,18 +120,41 @@ background-color: #27262e;
     and (max-device-width: 1024px) 
     and (-webkit-min-device-pixel-ratio: 1) {
 
+    body {
+      background-image:url('./images/background.jpg');
+      background-attachment:fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
 
-    .digital--main {
-      margin: 1.8em 12em 0 12em;
+    .digital--business-card {
+      background-color: #222128;
+      border-radius: 1.5rem;
+      width: 380px;;
+      margin: 3.5em auto; /* Added */
+      float: none; /* Added */
+    }
+
+        
+    footer {
+      border-bottom-left-radius: 1.5em;
+      border-bottom-right-radius: 1.5em;
+      position: relative;
+      height: 4.5em;
+      width: 380px;
+      margin: 0 auto; /* Added */
+      float: none; /* Added */
+      left: auto;
+      bottom: auto;
     }
 
     .fa-square-twitter, .fa-square-facebook, .fa-instagram, .fa-square-github {
-      margin: 0 1em;
+      margin: 0 0.4em;
     }
-  
   }
   
   
+  /* Desktop */
   @media only screen 
   and (min-device-width: 1025px) 
   and (-webkit-min-device-pixel-ratio: 1) {
