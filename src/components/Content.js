@@ -3,7 +3,7 @@ import Main from './Main'
 import Footer from './Footer'
 import PhotoCard from '../images/photoCard.jpg'
 
-const Header = () => {
+const Content = () => {
   return (
     <div className='digital--business-card'>
         <div className='digital--card'>   
@@ -20,4 +20,4 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Content
