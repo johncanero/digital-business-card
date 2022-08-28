@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://genuine-conkies-8e82b0.netlify.app" target="_blank">
-    <img alt="digital-business-card" height="100" src="./images/logoCard.png"/>
+    <img alt="digital-business-card" height="100" src=".src/images/logoCard.png"/>
   </a>
 </div>
 
@@ -34,7 +34,7 @@ Digital Business Card: John Cañero
 
 🪟: [Desktop - Tablet - Mobile]
 
-![Desktop View - Digital Business Card](./images/desktopView.jpg)
-![Tablet View - Digital Business Card](./images/tabletView.jpg)
-![Mobile View - Digital Business Card](./images/mobileView.jpg)
-![Code Snippet - Digital Business Card](./images/codeView.jpg)
+![Desktop View - Digital Business Card](.src/images/desktopView.jpg)
+![Tablet View - Digital Business Card](.src/images/tabletView.jpg)
+![Mobile View - Digital Business Card](.src/images/mobileView.jpg)
+![Code Snippet - Digital Business Card](.src/images/codeView.jpg)
