@@ -38,3 +38,4 @@ Digital Business Card: John Cañero
 ![Tablet View - Digital Business Card](./src/images/tabletView.jpg)
 ![Mobile View - Digital Business Card](./src/images/mobileView.jpg)
 ![Code Snippet - Digital Business Card](./src/images/codeView.jpg)
+![Code Snippet2 - Digital Business Card](./src/images/codeView2.jpg)
