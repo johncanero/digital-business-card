@@ -88,6 +88,7 @@ background-color: #222128;
 
   .digital--text {
     font-weight: 200;
+    margin-bottom: 1.5em;
   }
 
   /* Footer */
@@ -161,8 +162,7 @@ background-color: #222128;
   
   /* Desktop */
   @media only screen 
-  and (min-device-width: 1025px) 
-  and (-webkit-min-device-pixel-ratio: 1) {
+  and (min-device-width: 1025px) {
     
     
   .digital--container > img {
@@ -215,7 +215,7 @@ background-color: #222128;
       border-bottom-left-radius: 1.5em;
       border-bottom-right-radius: 1.5em;
       position: relative;
-      height: 4em;
+      height: 3.5em;
       width: 360px;
       margin: 0 auto; /* Added */
       float: none; /* Added */

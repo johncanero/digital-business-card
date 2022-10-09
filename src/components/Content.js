@@ -1,7 +1,7 @@
 import React from 'react'
 import Main from './Main'
 import Footer from './Footer'
-import PhotoCard from '../images/photoCard.jpg'
+import PhotoCard from '../images/sceenshots/photoCard.jpg'
 
 const Content = () => {
   return (
