@@ -103,14 +103,14 @@ background-color: #222128;
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 4em;
+    height: 3.5em;
     width: 100%;
     text-align: center;
     background-color: #F7CCAC;
   }
 
   .fa-square-twitter, .fa-square-facebook, .fa-instagram, .fa-square-github {
-    margin: 0 0.4em;
+    margin: 0 0.6em;
     color: #222128;
   }
 
@@ -146,7 +146,7 @@ background-color: #222128;
       border-bottom-left-radius: 1.5em;
       border-bottom-right-radius: 1.5em;
       position: relative;
-      height: 4.5em;
+      height: 3.5em;
       width: 380px;
       margin: 0 auto; /* Added */
       float: none; /* Added */
@@ -155,7 +155,7 @@ background-color: #222128;
     }
 
     .fa-square-twitter, .fa-square-facebook, .fa-instagram, .fa-square-github {
-      margin: 0 0.4em;
+      margin: 0 0.6em;
     }
   }
   
@@ -224,7 +224,7 @@ background-color: #222128;
     }
 
     .fa-square-twitter, .fa-square-facebook, .fa-instagram, .fa-square-github {
-      margin: 0 0.4em;
+      margin: 0 0.5em;
     }
 
   }
