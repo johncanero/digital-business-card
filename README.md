@@ -8,7 +8,8 @@
 } -->
 
 <div align="center">
-  <a href="https://genuine-conkies-8e82b0.netlify.app" target="_blank">
+  <a href="https://digital-business-card-by-johncanero.vercel.app/
+" target="_blank">
     <img alt="digital-business-card" height="100" src="./src/images/logoCard.png"/>
   </a>
 </div>
@@ -26,7 +27,8 @@ Digital Business Card: John Cañero
 
 ## Website
 
-🖥️ [https://genuine-conkies-8e82b0.netlify.app]
+🖥️ [https://digital-business-card-by-johncanero.vercel.app/
+]
 
 ✍️ Project by John Cañero
 
