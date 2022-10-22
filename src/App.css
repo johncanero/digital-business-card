@@ -16,7 +16,7 @@ min-height: 100%;
 body {
 margin: 0 0 100px; /* bottom = footer height */
 font-family: 'Roboto', sans-serif;
-background-color: #222128;
+background-color: #1a1a1d;
 }
 
 
@@ -140,7 +140,7 @@ background-color: #222128;
     }
 
     .digital--business-card {
-      background-color: #222128;
+      background-color: #1a1a1d;
       border-radius: 1.5rem;
       width: 380px;;
       margin: 4em auto; /* Added */
@@ -209,7 +209,7 @@ background-color: #222128;
     }
 
     .digital--business-card {
-      background-color: #222128;
+      background-color: #1a1a1d;
       border-radius: 1.5rem;
       width: 360px;;
       margin: 2em auto; /* Added */
