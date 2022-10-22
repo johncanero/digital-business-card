@@ -63,6 +63,10 @@ background-color: #222128;
     margin-top: 12.5px;
   }
 
+  a:hover, a:visited, a:link, a:active
+  {
+      text-decoration: none;
+  }
 
 
   /* Main */
