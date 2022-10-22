@@ -8,8 +8,7 @@
 } -->
 
 <div align="center">
-  <a href="https://digital-business-card-by-johncanero.vercel.app/
-" target="_blank">
+  <a href="https://johncanero-card.vercel.app/" target="_blank">
     <img alt="digital-business-card" height="100" src="./src/images/logoCard.png"/>
   </a>
 </div>
@@ -27,8 +26,7 @@ Digital Business Card: John Cañero
 
 ## Website
 
-🖥️ [https://digital-business-card-by-johncanero.vercel.app/
-]
+🖥️ [https://johncanero-card.vercel.app/]
 
 ✍️ Project by John Cañero
 
