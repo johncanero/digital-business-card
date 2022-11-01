@@ -10,7 +10,7 @@ const Main = () => {
 
         <div className='digital--main'>
           <h3 className='digital--main-heading'>About</h3>
-          <p className='digital--text'>I am a <strong>frontend developer</strong> & <strong>architecture designer</strong>. I love making projects and showing it to the world. 
+          <p className='digital--text'>I am a <strong>Frontend React Developer</strong> & <strong>Architecture Designer</strong>. I love making projects and showing it to the world. 
           <br></br>
           <br></br>
           I try my best to learn about the these things and how I could use it to improve life for the better.</p>
